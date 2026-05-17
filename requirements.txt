@@ -1,0 +1,7 @@
+fast api
+uvicorn
+sentence-transformers
+faiss-cpu
+numpy
+requests
+beautifulsoup4
